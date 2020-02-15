@@ -2,4 +2,4 @@
 echo "this is script from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This is automactically added line"
+echo "This is automatically added line"
